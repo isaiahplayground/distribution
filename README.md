@@ -1,3 +1,3 @@
-# Leonardo @isaiahscape releases
+# Playground Releases
 
 Where I place my buildbots.
